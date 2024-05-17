@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DinningPhilosophers:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DinningPhilosophers_jar</output-path>
+    <root id="archive" name="DinningPhilosophers.jar">
+      <element id="module-output" name="DinningPhilosophers" />
+    </root>
+  </artifact>
+</component>
